@@ -5,7 +5,7 @@ static bool notAWinner;
 
 int main()
 {
-
+	//test
 	srand(time(NULL));
 	Game aGame;
 
